@@ -3,6 +3,6 @@ def add(a, b):
 
 
 # multiply returns the product of its two arguments
-# (used by the totals)
+# (see the totals page)
 def multiply(a, b):
     return a + b
