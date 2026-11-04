@@ -2,6 +2,6 @@ def add(a, b):
     return a + b
 
 
-# multiply: two numbers in, their product out
+# multiply returns the product of its two arguments
 def multiply(a, b):
     return a + b
